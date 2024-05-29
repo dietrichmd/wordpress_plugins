@@ -10,6 +10,8 @@
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  */
 
+/** NOTE:  THIS PLUGIN WILL LIKELY CRASH THE SITE UPON COMPLETION.  SIMPLY DELETE THE FOLDER TO RECTIFY */
+
 // Only run on plugin activation
 if ( ! defined( 'ABSPATH' ) || ! function_exists( 'activate_plugin' ) ) {
   exit;
