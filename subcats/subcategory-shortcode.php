@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Subcategory List with Thumbnails
- * Plugin URI:  # (Optional: Add your plugin URI)
+ * Plugin URI:  https://github.com/dietrichmd/wordpress_plugins/tree/main/subcats
  * Description: Displays a list of subcategories of the current category with thumbnails.
  * Version: 1.0
  * Author: Vestra Interactive
